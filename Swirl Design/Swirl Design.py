@@ -1,5 +1,5 @@
 from turtle import *
-speed(500)
+speed(100)
 bgcolor('black')
 r,g,b = 255, 0, 0
 for i in range(255*2):
